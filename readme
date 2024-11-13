@@ -3,6 +3,7 @@
 Exemplo de servidor JSONSERVER baseado em um container docker  
 Para a disciplina de desenvolvimento Web
 
-```docker
+```ruby
 docker compose up -d
+puts markdown.to_html
 ```
