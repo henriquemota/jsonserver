@@ -1,0 +1,8 @@
+# JSONSERVER
+
+Exemplo de servidor JSONSERVER baseado em um container docker  
+Para a disciplina de desenvolvimento Web
+
+```docker
+docker compose up -d
+```
